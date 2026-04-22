@@ -21,6 +21,10 @@ h1 {
   flex-wrap: wrap;
 }
 
+.boton{
+  
+}
+
 footer {
   display: flex;
   justify-content: space-between;
